@@ -1,6 +1,6 @@
 {
   "facebookAccount": {
-    "email": "chatzenoffical@gmail.com",
+    "email": "gzeno225@gmail.com",
     "password": "realdomisted",
     "2FASecret": "",
     "i_user": "",
@@ -19,8 +19,6 @@
   "adminBot": [
     "100092375086339",
     "",
-    "100089335839120",
-    "61553491046815"
   ],
   "whiteListMode": {
     "enable": false,
